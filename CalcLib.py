@@ -34,6 +34,9 @@ def menu():
         print("8. Antenna")
         print()
 
+        a=input("Enter option 1")
+        print(a)
+
 ############################
 
 
